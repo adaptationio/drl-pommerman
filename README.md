@@ -19,7 +19,7 @@ A tutorial, guide to and contest implementation for Pommerman using the latest D
 	- __Windows__: 
 	```bash
 	conda create --name drl-pommerman python=3.6 
-	activate dr
+	activate drl-pommerman
 	```
 - Install requirements:
     ```bash
